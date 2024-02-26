@@ -1,6 +1,6 @@
 package escola;
 
-public class aluno {
+public class aluno{
     private String nome;
     private int idade;
     
